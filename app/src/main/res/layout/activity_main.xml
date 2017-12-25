@@ -19,6 +19,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="107dp"
         android:text="I am Rich!"
+        android:textColor="#000"
         android:textSize="50sp" />
 
     <ImageView
